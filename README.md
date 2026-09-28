@@ -147,4 +147,4 @@ These filters allow users to move from a high-level business overview to more de
 
 6. Screenshots / Demos
 Show what the dashboard looks like.
-Example:https://github.com/Rohit180620/Sales-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
+Example: https://github.com/Rohit180620/Sales-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
