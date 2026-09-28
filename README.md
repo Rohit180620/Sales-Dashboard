@@ -146,5 +146,5 @@ Employee Name – Analyze sales associated with individual employees.
 These filters allow users to move from a high-level business overview to more detailed analysis.
 
 6. Screenshots / Demos
-Show what the dashboard looks like- Alt(  )
+Show what the dashboard looks like- Alt(Snapshot of the dashboard.png)
 Example:https://github.com/Rohit180620/Sales-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
